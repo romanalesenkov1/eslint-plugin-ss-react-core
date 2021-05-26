@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-ss-react-core",
+  "version": "1.0.0",
+  "author": "Raman Alesiankou <raman.alesiankou@softswiss.com>",
+  "description": "SS React Core specific linting rules for ESLint",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaeslint-plugin-react"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "jsx-ast-utils": "^3.2.0"
+  }
+}
